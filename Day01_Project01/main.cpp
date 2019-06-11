@@ -87,7 +87,7 @@ void Tick(int keyCode)
 		PlayerX++;
 		if (PlayerX >= 10)
 		{
-			printf("d", map[y][9]);
+			printf("d", map[][9]);
 		}
 		break;
 	case LEFT:

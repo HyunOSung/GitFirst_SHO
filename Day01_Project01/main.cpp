@@ -17,10 +17,7 @@
 #include"Map.h"
 #include"Util.h"
 
-#define LEFT 75
-#define RIGHT 77
-#define UP 72
-#define DOWN 80
+
 
 
 // ""는 컴파일러가 설정한 범위 밖의 것들도 검색해서 적용
